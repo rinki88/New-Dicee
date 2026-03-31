@@ -1,2 +1,2 @@
-# New-Dicee
-This is a good game especially for children.
+# New-Dicee project
+[Screenshot] Screenshot.jpg
